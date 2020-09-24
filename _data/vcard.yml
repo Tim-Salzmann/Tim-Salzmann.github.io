@@ -22,7 +22,7 @@ main:
       url: "https://www.linkedin.com/in/timsalzmann/"
     - title: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/tim-salzmann"
   buttons:
     - title: "Download CV"
       icon: ""
