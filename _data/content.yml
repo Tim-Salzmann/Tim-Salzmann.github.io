@@ -8,7 +8,7 @@ about:
   title: "About Me"
   text: "
         <p>
-          <strong>Hello! I’m Tim.</strong><br> I just graduated with a Master's degree in Artificial Intelligence and Robotics. I am passionate about discovering and researching new technology and transferring these skills to new fields. In recent years, I was able to gather experience in AI and technology-related fields through multiple projects and I have homed my working practice by working on several consulting projects. Having lived on four continents and experienced many cultures I consider my self very social, open-minded and a team player.
+          <strong>Hello! I’m Tim.</strong><br> I am a PhD candidate in Robotics and AI. I am passionate about discovering and researching new technology and transferring these skills to new fields.
         </p>
         "
   list:
@@ -17,9 +17,6 @@ about:
 
     - label: "Residence"
       value: "Germany"
-
-    - label: "Consulting"
-      value: "Available"
 
     - label: "Address"
       value: "Munich, DE"

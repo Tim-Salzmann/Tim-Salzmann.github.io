@@ -26,20 +26,20 @@ main:
     sections:
         - about
 
-  #resume card
-  - title: "Experience"
-    icon: "android-list"
-    slug: "resume"
-    sections:
-        - resume
-        - skills
-  
   #projects card
   - title: "projects"
     icon: "paintbrush"
     slug: "projects"
     sections:
         - portfolio
+
+  #resume card
+  - title: "Resume"
+    icon: "android-list"
+    slug: "resume"
+    sections:
+        - resume
+        - skills
   
   #blog card
   #- title: "Blog"
@@ -49,9 +49,9 @@ main:
   #      - blog
   
   #contact card
-  - title: "Contact"
-    icon: "at"
-    slug: "contacts"
-    sections:
-        - contacts-info
-        - contacts-form
+  # - title: "Contact"
+  #   icon: "at"
+  #   slug: "contacts"
+  #   sections:
+  #       - contacts-info
+  #       - contacts-form
