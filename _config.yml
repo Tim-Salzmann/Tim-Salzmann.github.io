@@ -19,10 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 # basic settings
-title: "RyanCV - CV / Resume Jekyll Theme"
-email: "your-email@example.com"
-description: "Jekyll Resume / CV / vCard template"
-author: "Admin"
+title: "Tim Salzmann"
+email: "Tim.Salzmann@gmail.com"
+description: ""
+author: "Tim Salzmann"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%b %d, %Y"
