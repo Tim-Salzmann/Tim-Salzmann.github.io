@@ -287,13 +287,13 @@ skills:
 
 ### Portfolio [ portfolio ]
 portfolio:
-  title: "Recent Works"
+  title: "Recent Projects"
   filters:
     - name: "All"
       slug: "grid-item"
       active: 1
 
-    - name: "Trajectoy Prediction"
+    - name: "Trajectory Prediction"
       slug: "prediction"
       active: 0
 
