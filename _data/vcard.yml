@@ -14,8 +14,8 @@ main:
   typed:
     - text: "AI Researcher"
     - text: "Robotics Researcher"
-    - text: "Freelancer"
-    - text: "Photographer"
+    - text: "Technology Consultant"
+    - text: "Programmer"
   social:
     - title: "LinkedIn"
       icon: "fab fa-linkedin"
