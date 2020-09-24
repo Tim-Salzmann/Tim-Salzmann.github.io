@@ -293,8 +293,8 @@ portfolio:
       slug: "grid-item"
       active: 1
 
-    - name: "Photo"
-      slug: "photo"
+    - name: "Trajectoy Prediction"
+      slug: "prediction"
       active: 0
 
     - name: "Video"

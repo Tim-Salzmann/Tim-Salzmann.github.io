@@ -8,7 +8,7 @@
 
 main:
   #about card
-  - title: "About"
+  - title: "Tim"
     icon: "person"
     slug: "about"
     sections:
