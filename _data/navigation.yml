@@ -21,7 +21,7 @@ main:
   
   #resume card
   - title: "Research"
-    icon: "person"
+    icon: "telescope"
     slug: "research"
     sections:
         - about
