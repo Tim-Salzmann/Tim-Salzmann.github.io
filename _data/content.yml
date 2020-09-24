@@ -8,156 +8,156 @@ about:
   title: "About Me"
   text: "
         <p>
-          <strong>Hello! I’m Ryan Adlard.</strong><br> Web designer from USA, California. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique.
+          <strong>Hello! I’m Tim.</strong><br> I just graduated with a Master's degree in Artificial Intelligence and Robotics. I am passionate about discovering and researching new technology and transferring these skills to new fields. In recent years, I was able to gather experience in AI and technology-related fields through multiple projects and I have homed my working practice by working on several consulting projects. Having lived on four continents and experienced many cultures I consider my self very social, open-minded and a team player.
         </p>
         "
   list:
     - label: "Age"
-      value: "24"
+      value: "27"
 
     - label: "Residence"
-      value: "USA"
+      value: "Germany"
 
-    - label: "Freelance"
+    - label: "Consulting"
       value: "Available"
 
     - label: "Address"
-      value: "California, USA"
+      value: "Munich, DE"
 
 ### Services [ services ]
-services:
-  title: "My Services"
-  items:
-    - icon: "code"
-      name: "Web Development"
-      text: "Modern and mobile-ready website that will help you reach all of your marketing."
-      h_line: 1
+# services:
+#   title: "My Services"
+#   items:
+#     - icon: "code"
+#       name: "Web Development"
+#       text: "Modern and mobile-ready website that will help you reach all of your marketing."
+#       h_line: 1
 
-    - icon: "music-note"
-      name: "Music Writing"
-      text: "Music copying, transcription, arranging and composition services."
-      h_line: 1
+#     - icon: "music-note"
+#       name: "Music Writing"
+#       text: "Music copying, transcription, arranging and composition services."
+#       h_line: 1
 
-    - icon: "speakerphone"
-      name: "Advetising"
-      text: "Advertising services include television, radio, print, mail and web."
-      h_line: 0
+#     - icon: "speakerphone"
+#       name: "Advetising"
+#       text: "Advertising services include television, radio, print, mail and web."
+#       h_line: 0
 
-    - icon: "ios-game-controller-b"
-      name: "Game Development"
-      text: "Developing memorable and unique mobile android, ios games."
-      h_line: 0
+#     - icon: "ios-game-controller-b"
+#       name: "Game Development"
+#       text: "Developing memorable and unique mobile android, ios games."
+#       h_line: 0
 
 ### Pricing [ pricing ]
-pricing:
-  title: "Pricing"
-  items:
-    - icon: "speedometer speed-basic"
-      name: "Basic"
-      price_pre: "$"
-      price: "22"
-      price_after: "hour"
-      list:
-        - text: "Web Development"
-          disable: 0
-          new: 0
+# pricing:
+#   title: "Pricing"
+#   items:
+#     - icon: "speedometer speed-basic"
+#       name: "Basic"
+#       price_pre: "$"
+#       price: "22"
+#       price_after: "hour"
+#       list:
+#         - text: "Web Development"
+#           disable: 0
+#           new: 0
 
-        - text: "Advetising"
-          disable: 0
-          new: 0
+#         - text: "Advetising"
+#           disable: 0
+#           new: 0
 
-        - text: "Game Development"
-          disable: 0
-          new: 0
+#         - text: "Game Development"
+#           disable: 0
+#           new: 0
 
-        - text: "Music Writing"
-          disable: 1
-          new: 0
+#         - text: "Music Writing"
+#           disable: 1
+#           new: 0
 
-        - text: "Photography"
-          disable: 1
-          new: 1
-      button_link: "#"
-      button_text: "Buy Basic"
+#         - text: "Photography"
+#           disable: 1
+#           new: 1
+#       button_link: "#"
+#       button_text: "Buy Basic"
 
-    - icon: "speedometer"
-      name: "Pro"
-      price_pre: "$"
-      price: "48"
-      price_after: "hour"
-      list:
-        - text: "Web Development"
-          disable: 0
-          new: 0
+#     - icon: "speedometer"
+#       name: "Pro"
+#       price_pre: "$"
+#       price: "48"
+#       price_after: "hour"
+#       list:
+#         - text: "Web Development"
+#           disable: 0
+#           new: 0
 
-        - text: "Advetising"
-          disable: 0
-          new: 0
+#         - text: "Advetising"
+#           disable: 0
+#           new: 0
 
-        - text: "Game Development"
-          disable: 0
-          new: 0
+#         - text: "Game Development"
+#           disable: 0
+#           new: 0
 
-        - text: "Music Writing"
-          disable: 0
-          new: 0
+#         - text: "Music Writing"
+#           disable: 0
+#           new: 0
 
-        - text: "Photography"
-          disable: 0
-          new: 1
-      button_link: "#"
-      button_text: "Buy Pro"
+#         - text: "Photography"
+#           disable: 0
+#           new: 1
+#       button_link: "#"
+#       button_text: "Buy Pro"
 
 ### Facts [ facts ]
-facts:
-  title: "Fun Fact"
-  items:
-    - icon: "disc"
-      name: "80 Albumes Listened"
+# facts:
+#   title: "Fun Fact"
+#   items:
+#     - icon: "disc"
+#       name: "80 Albumes Listened"
 
-    - icon: "trophy"
-      name: "15 Awards Won"
+#     - icon: "trophy"
+#       name: "15 Awards Won"
 
-    - icon: "coffee"
-      name: "1 000 Cups of coffee"
+#     - icon: "coffee"
+#       name: "1 000 Cups of coffee"
 
-    - icon: "flag"
-      name: "10 Countries Visited"
+#     - icon: "flag"
+#       name: "10 Countries Visited"
 
 ### Clients [ clients ]
-clients:
-  title: "Clients"
-  items:
-    - url: "https://www.google.com"
-      image: "assets/img/clients/client_1.png"
+# clients:
+#   title: "Clients"
+#   items:
+#     - url: "https://www.google.com"
+#       image: "assets/img/clients/client_1.png"
 
-    - url: "https://www.google.com"
-      image: "assets/img/clients/client_2.png"
+#     - url: "https://www.google.com"
+#       image: "assets/img/clients/client_2.png"
 
-    - url: "https://www.google.com"
-      image: "assets/img/clients/client_3.png"
+#     - url: "https://www.google.com"
+#       image: "assets/img/clients/client_3.png"
 
-    - url: "https://www.google.com"
-      image: "assets/img/clients/client_4.png"
+#     - url: "https://www.google.com"
+#       image: "assets/img/clients/client_4.png"
 
 ### Testimonials [ testimonials ]
-testimonials:
-  title: "Testimonials"
-  items:
-    - image: "assets/img/man1.jpg"
-      name: "Helen Floyd"
-      subname: "Art Director"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+# testimonials:
+#   title: "Testimonials"
+#   items:
+#     - image: "assets/img/man1.jpg"
+#       name: "Helen Floyd"
+#       subname: "Art Director"
+#       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
-    - image: "assets/img/man1.jpg"
-      name: "Robert Chase"
-      subname: "CEO"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+#     - image: "assets/img/man1.jpg"
+#       name: "Robert Chase"
+#       subname: "CEO"
+#       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
-    - image: "assets/img/man1.jpg"
-      name: "Helen Floyd"
-      subname: "Art Director"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+#     - image: "assets/img/man1.jpg"
+#       name: "Helen Floyd"
+#       subname: "Art Director"
+#       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
 ### Resume [ resume ]
 resume:
@@ -321,16 +321,13 @@ contacts_info:
   title: "Get in Touch"
   list:
     - label: "Address"
-      value: "California, USA"
+      value: "Munich, DE"
 
     - label: "Email"
-      value: "adlard@example.com"
+      value: "Tim.Salzmann@gmail.com"
 
     - label: "Phone"
-      value: "+123 654 78900"
-
-    - label: "Freelance"
-      value: "Available"
+      value: "+4917683211876"
 
 ### Contact Form [ contacts-form ]
 contacts_form:

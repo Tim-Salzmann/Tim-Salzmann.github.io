@@ -13,13 +13,13 @@ main:
     slug: "about"
     sections:
         - about
-        - services
-        - pricing
-        - facts
-        - clients
-        - testimonials
+        # - services
+        # - pricing
+        # - facts
+        # - clients
+        # - testimonials
   
-  #resume card
+  #research card
   - title: "Research"
     icon: "search"
     slug: "research"
@@ -27,17 +27,17 @@ main:
         - about
 
   #resume card
-  - title: "Resume"
+  - title: "Experience"
     icon: "android-list"
     slug: "resume"
     sections:
         - resume
         - skills
   
-  #works card
-  - title: "works"
+  #projects card
+  - title: "projects"
     icon: "paintbrush"
-    slug: "works"
+    slug: "projects"
     sections:
         - portfolio
   
