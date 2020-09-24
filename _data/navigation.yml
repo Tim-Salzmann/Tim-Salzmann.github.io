@@ -20,6 +20,13 @@ main:
         - testimonials
   
   #resume card
+  - title: "Research"
+    icon: "person"
+    slug: "research"
+    sections:
+        - about
+
+  #resume card
   - title: "Resume"
     icon: "android-list"
     slug: "resume"
@@ -35,11 +42,11 @@ main:
         - portfolio
   
   #blog card
-  - title: "Blog"
-    icon: "chatbox-working"
-    slug: "blog"
-    sections:
-        - blog
+  #- title: "Blog"
+  #  icon: "chatbox-working"
+  #  slug: "blog"
+  #  sections:
+  #      - blog
   
   #contact card
   - title: "Contact"
