@@ -1,6 +1,6 @@
 ---
 title: Trajectron
-category: Trajectory Prediction
+category: Human Prediction
 category_slug: prediction
 type: content
 image: assets/img/works/trajectron.jpg

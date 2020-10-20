@@ -18,7 +18,7 @@ main:
     - text: "Developer"
   social:
     - title: "Mail"
-      icon: "<fas fa-envelope"
+      icon: "<far fa-envelope"
       url: "mailto:Tim.Salzmann@gmail.com"
     - title: "LinkedIn"
       icon: "fab fa-linkedin"

@@ -39,7 +39,7 @@ main:
     slug: "resume"
     sections:
         - resume
-        - skills
+  #      - skills
   
   #blog card
   #- title: "Blog"
