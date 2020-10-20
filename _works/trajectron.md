@@ -1,7 +1,7 @@
 ---
 title: Trajectron
 category: Human Prediction
-category_slug: prediction
+category_slug: active
 type: content
 image: assets/img/works/trajectron.jpg
 button_url: https://github.com/StanfordASL/Trajectron-plus-plus

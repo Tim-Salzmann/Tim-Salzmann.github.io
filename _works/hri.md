@@ -1,7 +1,7 @@
 ---
 title: Safety and Human-Machine Interaction
 category: Human Robot Interaction
-category_slug: hri
+category_slug: archive
 type: content
 image: assets/img/works/hri.jpg
 button_url: assets/docs/works/hri.pdf

@@ -1,7 +1,7 @@
 ---
 title: Intelligent Roadmodel
 category: Autonomous Driving
-category_slug: autonomous-driving
+category_slug: archive
 type: content
 image: assets/img/works/intelligent-roadmodel.jpg
 button_url: assets/docs/08917371.pdf
