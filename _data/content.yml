@@ -329,20 +329,16 @@ portfolio:
       slug: "grid-item"
       active: 1
 
-    - name: "Trajectory Prediction"
+    - name: "Human Prediction"
       slug: "prediction"
       active: 0
 
-    - name: "Video"
-      slug: "video"
+    - name: "Human Robot Interaction"
+      slug: "hri"
       active: 0
 
-    - name: "Music"
-      slug: "music"
-      active: 0
-
-    - name: "Design"
-      slug: "design"
+    - name: "Autonomous Driving"
+      slug: "autonomous-driving"
       active: 0
 
 ### Blog [ blog ]

@@ -18,7 +18,7 @@ main:
     - text: "Developer"
   social:
     - title: "Mail"
-      icon: "<far fa-envelope"
+      icon: "far fa-envelope"
       url: "mailto:Tim.Salzmann@gmail.com"
     - title: "LinkedIn"
       icon: "fab fa-linkedin"
@@ -29,7 +29,7 @@ main:
   buttons:
     - title: "Download CV"
       icon: ""
-      url: ""
+      url: "assets/docs/resume_tim_salzmann.pdf"
     - title: "Contact Me"
       icon: ""
       url: "mailto:Tim.Salzmann@gmail.com"

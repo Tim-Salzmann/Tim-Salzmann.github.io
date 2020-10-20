@@ -1,7 +1,7 @@
 ---
 title: Context Prediction
 category: Autonomous Driving
-category_slug: autonomous
+category_slug: autonomous-driving
 type: content
 image: assets/img/works/context-prediction.jpg
 button_url: assets/docs/08569617.pdf
