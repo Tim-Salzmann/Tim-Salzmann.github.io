@@ -107,7 +107,7 @@ about:
 
 ### Facts [ facts ]
 facts:
-  title: "Fun Facts"
+  title: ""
   items:
     - icon: "document-text"
       name: "3 peer-reviewed Papers"
