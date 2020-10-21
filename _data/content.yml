@@ -110,16 +110,16 @@ facts:
   title: "Fun Facts"
   items:
     - icon: "document-text"
-      name: "3 Published Papers"
+      name: "Published 3 peer-reviewed Papers"
+
+    - icon: "university"
+      name: "Attended 5 different Universities"
 
     - icon: "flag"
       name: "Lived on 4 Continents"
 
     - icon: "trophy"
-      name: "Bungee Jumped the highest Bridge"
-
-    - icon: "coffee"
-      name: "1 000 Cups of Coffee per Day"
+      name: "Bungee jumped the worlds highest Bridge"
 
 ### Clients [ clients ]
 # clients:
