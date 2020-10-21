@@ -28,7 +28,7 @@ main:
 
   #projects card
   - title: "projects"
-    icon: "library"
+    icon: "jet"
     slug: "projects"
     sections:
         - portfolio
