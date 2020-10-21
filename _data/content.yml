@@ -115,11 +115,11 @@ facts:
     - icon: "university"
       name: "Attended 5 different Universities"
 
-    - icon: "flag"
+    - icon: "earth"
       name: "Lived on 4 Continents"
 
-    - icon: "trophy"
-      name: "Bungee jumped the worlds highest Bridge"
+    - icon: "telescope"
+      name: "6 years of Research Experience"
 
 ### Clients [ clients ]
 # clients:
