@@ -218,7 +218,7 @@ resume:
     items:
       - year: "2020 - Present"
         institution: "Technical University Munich"
-        city: "Stanford"
+        city: "Munich"
         text: "PhD Candidate in the Autonomous Aerial Systems Lab of Prof. Markus Ryll"
         active: 1
         h_line: 1
@@ -234,11 +234,23 @@ resume:
         city: "Munich"
         text: "Bachelor's Degree in Robotics, Cognition, Intelligence"
         h_line: 1
+      
+      - year: "2019"
+        institution: "Chulalongkorn University"
+        city: "Bangkok"
+        text: "Semester Abroad"
+        h_line: 1
 
       - year: "2012 - 2016"
         institution: "Technical University Ingolstadt"
         city: "Ingolstadt"
         text: "Bachelor's Degree in Computer Science and Car Technology"
+        h_line: 1
+
+      - year: "2014"
+        institution: "Nelson Mandela University"
+        city: "Porth Elizabeth, SA"
+        text: "Semester Abroad"
         h_line: 0
 
 ### Skills [ skills ]

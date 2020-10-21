@@ -1,5 +1,5 @@
 ---
-title: Safety and Human-Machine Interaction
+title: Safety for HRI
 category: Human Robot Interaction
 category_slug: archive
 type: content
