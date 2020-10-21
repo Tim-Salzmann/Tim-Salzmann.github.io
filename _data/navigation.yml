@@ -28,7 +28,7 @@ main:
 
   #projects card
   - title: "projects"
-    icon: "fas fa-rocket"
+    icon: "library"
     slug: "projects"
     sections:
         - portfolio
