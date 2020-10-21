@@ -106,20 +106,20 @@ about:
 #       button_text: "Buy Pro"
 
 ### Facts [ facts ]
-# facts:
-#   title: "Fun Fact"
-#   items:
-#     - icon: "disc"
-#       name: "80 Albumes Listened"
+facts:
+  title: "Fun Facts"
+  items:
+    - icon: "file"
+      name: "3 Published Papers"
 
-#     - icon: "trophy"
-#       name: "15 Awards Won"
+    - icon: "flag"
+      name: "Lived on 4 Continents"
 
-#     - icon: "coffee"
-#       name: "1 000 Cups of coffee"
+    - icon: "trophy"
+      name: "Bungee Jumped the highest Bridge"
 
-#     - icon: "flag"
-#       name: "10 Countries Visited"
+    - icon: "coffee"
+      name: "1 000 Cups of Coffee per Day"
 
 ### Clients [ clients ]
 # clients:
