@@ -28,7 +28,7 @@ main:
 
   #projects card
   - title: "projects"
-    icon: "paintbrush"
+    icon: "rocket"
     slug: "projects"
     sections:
         - portfolio

@@ -110,7 +110,7 @@ facts:
   title: "Fun Facts"
   items:
     - icon: "document-text"
-      name: "Published 3 peer-reviewed Papers"
+      name: "3 peer-reviewed Papers"
 
     - icon: "university"
       name: "Attended 5 different Universities"
