@@ -20,11 +20,11 @@ main:
         # - testimonials
   
   #research card
-  - title: "Research"
-    icon: "search"
-    slug: "research"
-    sections:
-        - about
+  # - title: "Research"
+  #   icon: "search"
+  #   slug: "research"
+  #   sections:
+  #       - about
 
   #projects card
   - title: "projects"
