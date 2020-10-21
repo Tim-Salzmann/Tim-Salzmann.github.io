@@ -109,7 +109,7 @@ about:
 facts:
   title: "Fun Facts"
   items:
-    - icon: "document-text-outline"
+    - icon: "document"
       name: "3 Published Papers"
 
     - icon: "flag"
