@@ -165,8 +165,8 @@ resume:
     items:
       - year: "2021"
         role: "AI Resident"
-        company: "Google | X - The Moonshot Factory | Intrinsic"
-        text: "AI & ML research for manufacturing robots."
+        company: "Google | X - The Moonshot Factory"
+        text: "AI & ML research for manufacturing robots @ Intrinsic."
         active: 0
         h_line: 1
         
