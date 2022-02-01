@@ -13,7 +13,7 @@ about:
         "
   list:
     - label: "Age"
-      value: "27"
+      value: "28"
 
     - label: "Residence"
       value: "Germany"
@@ -119,7 +119,7 @@ facts:
       name: "Lived on 4 Continents"
 
     - icon: "speedometer"
-      name: "6 years of Research Experience"
+      name: "7 years of Research Experience"
 
 ### Clients [ clients ]
 # clients:
@@ -163,9 +163,16 @@ resume:
     title: "Experience"
     icon: "briefcase"
     items:
+      - year: "2021"
+        role: "AI Resident"
+        company: "Google | X - The Moonshot Factory | Intrinsic"
+        text: "AI & ML research for manufacturing robots."
+        active: 0
+        h_line: 1
+        
       - year: "2020"
-        role: "Freelancer Consultant for Development and Data Science."
-        company: "epap GmbH."
+        role: "Freelancer Consultant for Development and Data Science"
+        company: "epap GmbH"
         text: "Development of new product area: Connecting epap to financial data providers for fintech use cases. Consulting for Machine Learning and Big Data development."
         active: 0
         h_line: 1
