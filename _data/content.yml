@@ -110,7 +110,7 @@ facts:
   title: ""
   items:
     - icon: "document-text"
-      name: "3 peer-reviewed Papers"
+      name: "4 peer-reviewed Papers"
 
     - icon: "university"
       name: "Attended 5 different Universities"
@@ -119,7 +119,7 @@ facts:
       name: "Lived on 4 Continents"
 
     - icon: "speedometer"
-      name: "7 years of Research Experience"
+      name: "8 years of Research Experience"
 
 ### Clients [ clients ]
 # clients:
