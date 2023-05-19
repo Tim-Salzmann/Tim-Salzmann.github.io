@@ -8,18 +8,15 @@ about:
   title: "About Me"
   text: "
         <p>
-          <strong>Hi! I’m Tim.</strong><br> I am a PhD student in Robotics and AI. I am affiliated with the Autonomous Aerial Systems Lab at TUM, the Autonomous Systsems Lab at Stanford University and Google Brain Research. I am passionate about discovering and researching new technology.
+          <strong>Hi! I’m Tim.</strong><br> I am a PhD student in Robotics and AI. I am affiliated with the Autonomous Aerial Systems Lab at TUM, the Autonomous Systems Lab at Stanford University and Google DeepMind. I am passionate about discovering and researching new technology.
         </p>
         "
-  list:
-    - label: "Age"
-      value: "28"
-
-    - label: "Residence"
-      value: "Germany"
-
-    - label: "Address"
-      value: "Munich, DE"
+#   list:
+#     - label: "Residence"
+#       value: "Germany"
+# 
+#     - label: "Address"
+#       value: "Munich, DE"
 
 ### Services [ services ]
 # services:
@@ -163,11 +160,18 @@ resume:
     title: "Experience"
     icon: "briefcase"
     items:
+      - year: "2023-2024"
+        role: "Researcher"
+        company: "Google |  DeepMind"
+        text: "Research in embedded Artificial Intelligence."
+        active: 1
+        h_line: 1
+        
       - year: "2022-2023"
         role: "Researcher"
         company: "Google | Brain"
         text: "Research in embedded Artificial Intelligence."
-        active: 1
+        active: 0
         h_line: 1
         
       - year: "2021"
