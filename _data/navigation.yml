@@ -27,11 +27,11 @@ main:
   #       - about
 
   #projects card
-  - title: "projects"
-    icon: "jet"
-    slug: "projects"
-    sections:
-        - portfolio
+  # - title: "projects"
+  #   icon: "jet"
+  #   slug: "projects"
+  #   sections:
+  #       - portfolio
 
   #resume card
   - title: "Resume"
