@@ -8,7 +8,7 @@ about:
   title: "About Me"
   text: "
         <p>
-          <strong>Hi! I’m Tim.</strong><br> I am a PhD student in Robotics and AI. I am affiliated with the Autonomous Aerial Systems Lab at TUM, the Autonomous Systems Lab at Stanford University and Google DeepMind. I am passionate about discovering and researching new technology.<br><br>Visit my 
+          <strong>Hi! I’m Tim.</strong><br> I am a PhD student in Robotics and AI. I am affiliated with the Autonomous Aerial Systems Lab at TUM, the Autonomous Systems Lab at Stanford University and Google DeepMind. I am passionate about discovering and researching new technology.<br><br>Visit my <a href=https://scholar.google.de/citations?user=r4hMllQAAAAJ>Scholar Page</a> 
         </p>
         "
 #   list:
